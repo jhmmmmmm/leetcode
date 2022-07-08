@@ -10,7 +10,7 @@
 * Searching Right: left = mid+1
 
 * code example 
-`int binarySearch(int[] nums, int target){
+``int binarySearch(int[] nums, int target){
   if(nums == null || nums.length == 0)
     return -1;
 
@@ -25,7 +25,7 @@
 
   // End Condition: left > right
   return -1;
-}`
+}``
 
 ---
 **Related exercises:**
