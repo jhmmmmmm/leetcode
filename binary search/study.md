@@ -1,3 +1,3 @@
 # Binary Search
 
-##Three templates
+## Three templates
