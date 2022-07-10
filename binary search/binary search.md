@@ -10,7 +10,7 @@
 * Termination: left > right --> equal to `while(left <= right)`
 * Searching Left: **right = mid-1**
 * Searching Right: **left = mid+1**
----
+
 **Related exercises:**
 - Sqrt(x)
 - Guess Number Higher or Lower
@@ -28,7 +28,7 @@
 * Searching Left: **right = mid**
 * Searching Right: **left = mid+1**
 * **Post-processing required. Loop/Recursion ends when you have 1 element left. Need to assess if the remaining element meets the condition.**
----
+
 **Related exercises:**
 - First Bad Version
 - Find Peak Element
