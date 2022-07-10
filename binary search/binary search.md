@@ -7,8 +7,8 @@
 **Distinguishing Syntax:**
 * Initial Condition: left = 0, right = length-1
   * if this a array, probably use 0 and (length - 1). Sometimes left = 1, right = n is used, too. Depends on the scenarios of the problems, this is not the key.
-* Termination: left > right !!!
-* Searching Left: right = mid-1 !!!
+* Termination: left > right !!! --> equal to `while( left <= right)`
+* Searching Left: right = mid-1 !!! 
 * Searching Right: left = mid+1 !!!
 ---
 **Related exercises:**
